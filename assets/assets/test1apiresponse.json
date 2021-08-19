@@ -1,0 +1,119 @@
+{
+"order": 987650,
+"origin": "Origen del viaje 0",
+"trip_type": "Tipo de viaje del viaje 0",
+"truck_plate": "Placa del viaje 0",
+"driver_name": "Nombre del conductor del viaje 0",
+"units": [
+    {
+        "vin": "VIN 0",
+        "destination": "Destino 0",
+        "plate": "Placa vin 0",
+        "brand": "Marca vin 0",
+        "model": "Modelo vin 0",
+        "color": "Color vin 0",
+        "programmer_details": "Detalle a tener en cuenta del vin 0",
+        "trip_state": "Estado del transporte del vin 0",
+        "trip_details": "Detalles de cancelacion del viaje del vin 0",
+        "deliver_name": "Nombre del personal que entrega en origen 0 el vin 0",
+        "deliver_signature_photo": "https://www.web_firma_entrega_en_origen_0_del_vin_0.com",
+        "receiver_name": "Nombre del personal que recibe en destino 0 el vin 0",
+        "receiver_signature_photo": "https://www.web_firma_recibe_en_destino_0_del_vin_0.com",
+        "accessories": [
+            {
+                "accesory_name": "Accesorio 0 del vin 0",
+                "accesory_report_status": true
+            },
+            {
+                "accesory_name": "Accesorio 1 del vin 0",
+                "accesory_report_status": true
+            }
+        ],
+        "incidences": [
+            {
+                "part": "Parte de la incidencia 0 del vin 0",
+                "class": "Clase de la incidencia 0 del vin 0",
+                "size": "Tamaño de la incidencia 0 del vin 0",
+                "details": "Detalle de la incidencia 0 del vin 0",
+                "photos": [
+                    {
+                        "incidence_photo": "https://www.foto_0_de_la_incidencia_0_del_vin_0.com"
+                    },
+                    {
+                        "incidence_photo": "https://www.foto_1_de_la_incidencia_0_del_vin_0.com"
+                    }
+                ]
+            },
+            {
+                "part": "Parte de la incidencia 1 del vin 0",
+                "class": "Clase de la incidencia 1 del vin 0",
+                "size": "Tamaño de la incidencia 1 del vin 0",
+                "details": "Detalle de la incidencia 1 del vin 0",
+                "photos": [
+                    {
+                        "incidence_photo": "https://www.foto_0_de_la_incidencia_1_del_vin_0.com"
+                    },
+                    {
+                        "incidence_photo": "https://www.foto_1_de_la_incidencia_1_del_vin_0.com"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "vin": "VIN 1",
+        "destination": "Destino 1",
+        "plate": "Placa vin 1",
+        "brand": "Marca vin 1",
+        "model": "Modelo vin 1",
+        "color": "Color vin 1",
+        "programmer_details": "Detalle a tener en cuenta del vin 1",
+        "trip_state": "Estado del transporte del vin 1",
+        "trip_details": "Detalles de cancelacion del viaje del vin 1",
+        "deliver_name": "Nombre del personal que entrega en origen 0 el vin 1",
+        "deliver_signature_photo": "https://www.web_firma_entrega_en_origen_0_del_vin_1.com",
+        "receiver_name": "Nombre del personal que recibe en destino 1 el vin 1",
+        "receiver_signature_photo": "https://www.web_firma_recibe_en_destino_1_del_vin_1.com",
+        "accessories": [
+            {
+                "accesory_name": "Accesorio 0 del vin 1",
+                "accesory_report_status": true
+            },
+            {
+                "accesory_name": "Accesorio 1 del vin 1",
+                "accesory_report_status": true
+            }
+        ],
+        "incidences": [
+            {
+                "part": "Parte de la incidencia 0 del vin 1",
+                "class": "Clase de la incidencia 0 del vin 1",
+                "size": "Tamaño de la incidencia 0 del vin 1",
+                "details": "Detalle de la incidencia 0 del vin 1",
+                "photos": [
+                    {
+                        "incidence_photo": "https://www.foto_0_de_la_incidencia_0_del_vin_1.com"
+                    },
+                    {
+                        "incidence_photo": "https://www.foto_1_de_la_incidencia_0_del_vin_1.com"
+                    }
+                ]
+            },
+            {
+                "part": "Parte de la incidencia 1 del vin 1",
+                "class": "Clase de la incidencia 1 del vin 1",
+                "size": "Tamaño de la incidencia 1 del vin 1",
+                "details": "Detalle de la incidencia 1 del vin 1",
+                "photos": [
+                    {
+                        "incidence_photo": "https://www.foto_0_de_la_incidencia_1_del_vin_1.com"
+                    },
+                    {
+                        "incidence_photo": "https://www.foto_1_de_la_incidencia_1_del_vin_1.com"
+                    }
+                ]
+            }
+        ]
+    }
+]
+}
