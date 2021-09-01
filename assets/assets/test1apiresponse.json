@@ -62,7 +62,7 @@
     },
     {
         "vin": "VIN 1",
-        "destination": "Destino 1",
+        "destination": "Destino 0",
         "plate": "Placa vin 1",
         "brand": "Marca vin 1",
         "model": "Modelo vin 1",
@@ -72,7 +72,7 @@
         "trip_details": "Detalles de cancelacion del viaje del vin 1",
         "deliver_name": "Nombre del personal que entrega en origen 0 el vin 1",
         "deliver_signature_photo": "https://www.web_firma_entrega_en_origen_0_del_vin_1.com",
-        "receiver_name": "Nombre del personal que recibe en destino 1 el vin 1",
+        "receiver_name": "Nombre del personal que recibe en destino 0 el vin 1",
         "receiver_signature_photo": "https://www.web_firma_recibe_en_destino_1_del_vin_1.com",
         "accessories": [
             {
