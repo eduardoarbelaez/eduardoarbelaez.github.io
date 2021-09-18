@@ -67840,8 +67840,8 @@ adm(a,b,c,d){var s=this
 if(s.a.length===0)return null
 if(s.c==null)s.c=new O.yI(C.p,1,10)
 switch(d){case C.mx:return s.a_m(512,256,0,a,c)
-case C.fc:return s.a_l(512,256,0,a,c,b)
-case C.i9:return s.a_n(512,256,0,a,c,b)
+case C.i9:return s.a_l(512,256,0,a,c,b)
+case C.fc:return s.a_n(512,256,0,a,c,b)
 default:throw H.b(H.j(u.I))}},
 a_m(a,b,c,d,e){var s,r=u.T,q=B.ajA(this.gA1()),p=B.aoy(this.gHt(),new P.z(0,0,a,b),e+c,q,t.N_),o=new P.c_("")
 o.a=r
@@ -67886,7 +67886,7 @@ n=P.ajC()
 m=H.a([j],t.Eb)
 l=P.aic(n,P.a24(new P.n(0,0),new P.n(512,256)))
 l.jz(a,C.ja)
-new N.xq(m,b,o.b,o.c,null,C.fc,null).aL(l,new P.I(512,256))
+new N.xq(m,b,o.b,o.c,null,C.i9,null).aL(l,new P.I(512,256))
 s=3
 return P.R(n.nW().oJ(512,256),$async$wL)
 case 3:q=d.PH(C.ux)
@@ -68026,9 +68026,9 @@ p=q.b
 if(p.length===0)return
 switch(q.r){case C.mx:C.b.T(p,new N.a0T(a,q.gFt()))
 break
-case C.fc:C.b.T(p,new N.a0U(q,q.gFt(),a))
+case C.i9:C.b.T(p,new N.a0U(q,q.gFt(),a))
 break
-case C.i9:s=H.aB()
+case C.fc:s=H.aB()
 r=s?H.bb():new H.aW(new H.aX())
 r.sat(0,q.c)
 r.seB(0)
@@ -70136,7 +70136,7 @@ $0(){var s=0,r=P.Q(t.P),q=this,p,o,n
 var $async$$0=P.K(function(a,b){if(a===1)return P.N(b,r)
 while(true)switch(s){case 0:p=q.a
 o=p.f
-p.r.sk(0,o.adm(C.CU,15,2,C.i9))
+p.r.sk(0,o.adm(C.CU,15,2,C.fc))
 n=p.x
 s=2
 return P.R(o.wL(C.CQ,C.CP),$async$$0)
@@ -77012,8 +77012,8 @@ C.Ih=new P.et(C.CL,t.vt)
 C.CM=new H.bZ([C.aB,null],t.XK)
 C.Ii=new P.et(C.CM,t.Ji)
 C.mx=new N.yH("SignatureDrawType.line")
-C.fc=new N.yH("SignatureDrawType.arc")
-C.i9=new N.yH("SignatureDrawType.shape")
+C.i9=new N.yH("SignatureDrawType.arc")
+C.fc=new N.yH("SignatureDrawType.shape")
 C.J6=new P.I(1e5,1e5)
 C.J7=new P.I(22,22)
 C.mD=new P.I(64,36)
