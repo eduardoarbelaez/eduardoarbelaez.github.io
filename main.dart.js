@@ -70120,7 +70120,7 @@ $1(a){return new U.j9(this.a.a.c,"origins",null)},
 $S:82}
 U.qq.prototype={
 U(a,b){var s=null,r=this.f,q=t._
-return new F.he(M.yo(s,C.CS,Q.ap6(T.i0(C.aL,H.a([T.pX(H.a([T.aiE(T.lc(new T.Do(2,T.i0(C.aL,H.a([M.ax(s,new V.G6(r,C.G,5,C.fc,s),C.k,new S.b0(1/0,1/0,1/0,1/0),s,s,s,s,s),T.hw(s,s,s,new N.EX(r,!1,!1,!1,s))],q),C.aC),s),s,s)),T.dw(H.a([M.ax(s,O.ew(C.dl,C.k,C.a2,"Play",24,!0,r.gM4(r),"BORRAR",C.a1,0),s,s,s,s,new V.a2(0,16,0,0),s,s),M.ax(s,O.ew(C.a6,C.k,C.a2,"Play",24,!0,new U.YJ(this),"GUARDAR",C.a1,0),s,s,s,s,new V.a2(0,16,0,0),s,s)],q),C.X,C.hG,C.a0),T.eh(s,16,s)],q),C.X,C.a0,C.ar),new T.jx(C.nv,s,s,T.pX(H.a([this.YG()],q),C.X,C.eY,C.ar),s)],q),C.aC),!0),s),new U.YK(),s)},
+return new F.he(M.yo(s,C.CS,Q.ap6(T.i0(C.aL,H.a([T.pX(H.a([T.aiE(T.lc(new T.Do(2,T.i0(C.aL,H.a([M.ax(s,new V.G6(r,C.G,2.5,C.fc,s),C.k,new S.b0(1/0,1/0,1/0,1/0),s,s,s,s,s),T.hw(s,s,s,new N.EX(r,!1,!1,!1,s))],q),C.aC),s),s,s)),T.dw(H.a([M.ax(s,O.ew(C.dl,C.k,C.a2,"Play",24,!0,r.gM4(r),"BORRAR",C.a1,0),s,s,s,s,new V.a2(0,16,0,0),s,s),M.ax(s,O.ew(C.a6,C.k,C.a2,"Play",24,!0,new U.YJ(this),"GUARDAR",C.a1,0),s,s,s,s,new V.a2(0,16,0,0),s,s)],q),C.X,C.hG,C.a0),T.eh(s,16,s)],q),C.X,C.a0,C.ar),new T.jx(C.nv,s,s,T.pX(H.a([this.YG()],q),C.X,C.eY,C.ar),s)],q),C.aC),!0),s),new U.YK(),s)},
 YG(){var s=null,r=F.axJ(C.p)
 return M.ax(s,N.tk(new U.YI(),this.r,t.bD),s,s,new S.l7(C.p3,s,r,s,s,s,C.b0),96,s,s,192)}}
 U.YK.prototype={
